@@ -5,6 +5,8 @@ public class Hello2 {
 		System.out.println("test~~1223");
 		System.out.println("okok testest");
 		System.out.println("nono test");
+		System.out.println("nono test");
+		
 	}
 
 }
